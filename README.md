@@ -5,7 +5,6 @@
   - ReactJS
   - React Native
   - NodeJS
-  - Flutter
   - Kotlin
   - Python
 
