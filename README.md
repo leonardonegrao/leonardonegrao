@@ -1,15 +1,15 @@
-### Olá! 👋
+### Hello! 👋
 
-Meu nome é Leonardo, sou estudante de Engenharia de Software na UniFil, em Londrina (PR). Trabalho como desenvolvedor web, principalmente nas tecnologias relacionadas ao JavaScript. Uso de UX e UI para criar aplicações com valor.
+My name is Leonardo, I'm a Software Engineering student at Unifil, in Londrina (BR). I work as a web developer, mainly in technologies related to JavaScript. I also supplement my programming knowledge with some notions in UI and UX Design, to deliver value and user-driven applications.
 
-- 🌱 Atualmente estou estudando tecnologias web e mobile como:
+- 🌱 Currently I'm studying web and mobile technologies, such as:
   - TypeScript
   - ReactJS
   - NodeJS
   - React Native
   - Flutter
 
-- 📫 Você pode me encontrar em outros lugares, como:
+- 📫 You can find me in some other places:
   - [LinkedIn](https://www.linkedin.com/in/leonardonegrão)
   - [leonardolnegrao@gmail.com](mailto:leonardolnegrao@gmail.com)
   - [Gitlab](https://gitlab.com/leonardonegrao)
