@@ -17,3 +17,5 @@ My name is Leonardo, I'm a Software Engineering student at Unifil, in Londrina (
 [![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=leonardonegrao)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonegrao)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Leonardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonardonegrao)](https://github.com/anuraghazra/github-readme-stats)
