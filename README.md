@@ -17,9 +17,9 @@ My name is Leonardo, I'm a Software Engineering student at Unifil, in Londrina (
   - React Native
   - Flutter
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonegrao&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonegrao)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Leonardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonardonegrao&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Leonardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leonardonegrao)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 You can find me in some other places:
   - [LinkedIn](https://www.linkedin.com/in/leonardonegrão)
