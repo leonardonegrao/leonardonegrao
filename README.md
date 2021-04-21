@@ -11,9 +11,9 @@ My name is Leonardo, I'm a Software Engineering student at Unifil, in Londrina (
   - NodeJS
   - TypeScript
 
-- 🌱 Currently I'm studying web and mobile technologies, such as:
-  - Clojure
-  - React Native
+- 🌱 Currently I'm studying exciting new technologies, such as:
+  - Python
+  - Quantum Computing
   - Flutter
 
 - 📫 You can find me in some other places:
