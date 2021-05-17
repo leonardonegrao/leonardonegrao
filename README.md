@@ -2,8 +2,6 @@
 
 My name is Leonardo, I'm a Software Engineering student at Unifil, in Londrina (BR). I work as a web developer, mainly in technologies related to JavaScript. I also supplement my programming knowledge with some notions in UI and UX Design, to deliver value and user-driven applications.
 
-![Metrics](https://github.com/leonardonegrao/leonardonegrao/blob/main/github-metrics.svg)
-
 ### 💎 My main technologies are:
 - ReactJS
 - NextJS
@@ -11,7 +9,7 @@ My name is Leonardo, I'm a Software Engineering student at Unifil, in Londrina (
 - NodeJS
 - TypeScript
 
-### 🌱 Currently I'm studying exciting new technologies, such as:
+### 🌱 Currently I'm studying exciting technologies, such as:
 - Python
 - Quantum Computing
 - Flutter
