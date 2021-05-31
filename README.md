@@ -5,7 +5,6 @@ My name is Leonardo, I'm a Software Engineering student at Unifil, in Londrina (
 ### 💎 My main technologies are:
 - ReactJS
 - NextJS
-- VueJS
 - NodeJS
 - TypeScript
 
