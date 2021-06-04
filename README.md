@@ -6,8 +6,8 @@ I work as a web developer since 2020. My main skills are front-end development a
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardonegrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonegrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact"/>
 <div>
-
-<div>
+  
+<section>
   <h2>💎 My main technologies are:</h2>
   <div style="display: flex; flex-direction: row;">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -22,13 +22,10 @@ I work as a web developer since 2020. My main skills are front-end development a
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Flutter-38b0de?style=flat-square&logo=Flutter&logoColor=white" />
   </div>
-</div>
+</section>
 
-<div>
-  <h2>📫 Find me at:</h2>
-  <div style="display: flex; flex-direction: row;">
-    <a href-"https://www.linkedin.com/in/leonardonegrão"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin" /></a>
-    <a href-"mailto:leonardolnegrao@gmail.com"><img src="https://img.shields.io/badge/leonardolnegrao@gmail.com-F6F6F6?style=flat-square&logo=gmail" /></a>
-    <a href-"https://leonardonegrao.com"><img src="https://img.shields.io/badge/leonardonegrao.com-black?style=flat-square&logo=vercel" /></a>
-  </div>
-</div>
+### 📫 Find me at:
+  
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leonardo-negrao)
+[![Mail Badge](https://img.shields.io/badge/leonardolnegrao@gmail.com-F6F6F6?style=flat-square&logo=gmail)](mailto:leonardolnegrao@gmail.com)
+[![Website Badge](https://img.shields.io/badge/leonardonegrao.com-black?style=flat-square&logo=vercel)](https://leonardonegrao.com)
