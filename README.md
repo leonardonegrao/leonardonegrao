@@ -19,8 +19,6 @@ I work as a web developer since 2020. My main skills are front-end development a
     <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" />
     <img src="https://img.shields.io/badge/-Figma-red?style=flat-square&logo=Figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Flutter-38b0de?style=flat-square&logo=Flutter&logoColor=white" />
   </div>
 </section>
 
