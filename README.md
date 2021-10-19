@@ -1,7 +1,5 @@
 <h1>👋 Welcome! My name is Leonardo and I'm a Software Engineering student and Full-Stack Web Developer</h1>
 
-I work as a web developer since 2020. My main skills are front-end development and web design, but I'm also capable of developing on the back-end and setting up a database. That allows me to create my own applications from end to end, including tests, integration and hosting.
-
 <div style="display: flex">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardonegrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonegrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact"/>
