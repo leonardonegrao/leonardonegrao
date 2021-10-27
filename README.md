@@ -1,6 +1,10 @@
-<h1>👋 Welcome! My name is Leonardo and I'm a Software Engineering student and Full-Stack Web Developer</h1>
+<h1>👋 Welcome! My name is Leonardo and I'm a Software Developer</h1>
 
-<div style="display: flex">
+Since 2019 I've been studying JavaScript, and doing so I dived both on front-end and back-end development. Now, I'm working with front-end development after one year as a full-ftack developer (with Node.js and front-end frameworks). I also am a enthusiast of UI Design and big fan of Figma.
+
+Right now, I'm working mostly with Next.js - my favorite framework to work with so far, and interested in anything related to React.
+
+<div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardonegrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonegrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact"/>
 <div>
@@ -24,4 +28,4 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leonardo-negrao)
 [![Mail Badge](https://img.shields.io/badge/leonardolnegrao@gmail.com-F6F6F6?style=flat-square&logo=gmail)](mailto:leonardolnegrao@gmail.com)
-<!-- [![Website Badge](https://img.shields.io/badge/leonardonegrao.com-black?style=flat-square&logo=vercel)](https://leonardonegrao.com) -->
+[![Website Badge](https://img.shields.io/badge/leonardonegrao.com-black?style=flat-square&logo=vercel)](https://leonardonegrao.com)
