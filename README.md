@@ -28,6 +28,6 @@ Right now, I'm working mostly with Next.js - my favorite framework to work with 
 <h2></h2>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardonegrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonegrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardonegrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonegrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact"/>
 <p>
