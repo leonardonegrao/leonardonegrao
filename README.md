@@ -1,8 +1,6 @@
 <h1>👋 Welcome! My name is Leonardo and I'm a Software Developer</h1>
 
-Since 2019 I've been studying JavaScript, and doing so I dived both on front-end and back-end development. Now, I'm working with front-end development after one year as a full-ftack developer (with Node.js and front-end frameworks). Besides programming, I build UIs using Figma.
-
-Right now, I'm working mostly with Next.js - my favorite framework to work with so far, and interested in anything related to React.
+I'm a front-end developer with 3 years of experience, ranging from full-stack to front-end roles. I enjoy UI design, tests, best practices and modern technologies to build reliable webapps.
   
 <section>
   <h2>💎 My main technologies are:</h2>
