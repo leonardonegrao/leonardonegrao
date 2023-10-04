@@ -1,22 +1,3 @@
-<h1>👋 Welcome! My name is Leonardo and I'm a Software Developer</h1>
-
-I'm a front-end developer with 3 years of experience, ranging from full-stack to front-end roles. I enjoy UI design, tests, best practices and modern technologies to build reliable webapps.
-  
-<section>
-  <h2>💎 My main technologies are:</h2>
-  <div style="display: flex; flex-direction: row;">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-    <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" />
-    <img src="https://img.shields.io/badge/-React-informational?style=flat-square&logo=react" />
-    <img src="https://img.shields.io/badge/-Nodejs-lightgreen?style=flat-square&logo=node-dot-js" />
-    <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
-    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" />
-    <img src="https://img.shields.io/badge/-Figma-red?style=flat-square&logo=Figma&logoColor=white" />
-  </div>
-</section>
-
 <h3>📫 Find me at:</h3>
   
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leonardo-negrao)
